@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-npm-package",
+  "version": "1.0.0",
+  "description": "HELLO NPM",
+  "main": "index.js",
+  "git repository": "https://github.com/Akhilgovind02/npm-package.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["NPM example"],
+  "author": "Akhil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
